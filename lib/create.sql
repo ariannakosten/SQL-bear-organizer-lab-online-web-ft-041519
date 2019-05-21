@@ -1,9 +1,9 @@
-"create table bears (
-id integar primary key, 
-name text, 
-age integar, 
-gender text, 
-color text, 
-temperment text, 
-alive boolean
-);"
+CREATE TABLE bears (
+id INTEGAR PRIMARY KEY, 
+name TEXT, 
+age INTEGAR, 
+gender TEXT, 
+color TEXT, 
+temperment TEXT, 
+alive BOOLEAN
+);
