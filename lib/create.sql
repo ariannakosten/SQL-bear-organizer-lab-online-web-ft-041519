@@ -1,3 +1,9 @@
-create table bears (
+"create table bears (
 id integar primary key, 
-name te)
+name text, 
+age integar, 
+gender text, 
+color text, 
+temperment text, 
+alive boolean
+);"
